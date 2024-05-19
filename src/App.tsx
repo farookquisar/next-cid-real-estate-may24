@@ -12,7 +12,7 @@ const App = () => {
 			<Header />
 			<SearchBar />
 			<Featured />
-			<Trusted />
+			<Trusted /> 
 			<Latest />
 			<Banner />
 			<Footer />
